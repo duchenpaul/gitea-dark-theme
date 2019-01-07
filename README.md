@@ -1,5 +1,8 @@
 Origin from: https://gitea.werefoxsoftware.com/shadow8t4/Gitea-Dark-Theme
 
+# Preview
+Just go to https://gitea.werefoxsoftware.com/shadow8t4/Gitea-Dark-Theme
+
 # Installing
 
 Just put `styles.css` in the `custom/public/` subdirectory of the directory where your gitea executable is located.
